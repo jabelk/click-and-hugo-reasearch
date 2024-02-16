@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  tasks:
+    - name: Apply template
+      template:
+        src: /path/to/template.j2
+        dest: /path/to/output.html

@@ -1,0 +1,9 @@
+tut_data:
+  training_resources: |-
+    <br><br>
+    sample html content for some links for cisco products
+    <a href="https://www.cisco.com/c/en/us/products/routers/800-series-routers/index.html">800 Series Routers</a>
+    <a href="https://www.cisco.com/c/en/us/products/routers/4000-series-integrated-services-routers-isr/index.html">4000 Series Integrated Services Routers</a>
+    <a href="https://www.cisco.com/c/en/us/products/routers/1000-series-integrated-services-routers-isr/index.html">1000 Series Integrated Services Routers</a>
+
+
